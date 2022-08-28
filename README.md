@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- Proud MTA 98-361 owner: https://bit.ly/3e5s0lL
+- WSEICraft_6.0 2nd place
+- INF.02
+- Loves coding, guinea pigs, mobile apps and .NET MAUI
+
+
+
 <!--
 **gal0wsky/gal0wsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
