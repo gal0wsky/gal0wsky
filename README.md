@@ -2,6 +2,7 @@
 
 - Proud MTA 98-361 owner: https://bit.ly/3e5s0lL
 - WSEICraft_6.0 2nd place
+- Creator of FindAround
 - INF.02
 - Loves coding, guinea pigs, mobile apps and .NET MAUI
 
