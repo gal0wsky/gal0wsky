@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Proud MTA 98-361 owner: https://bit.ly/3e5s0lL
+- Proud [MTA 98-361](https://bit.ly/3e5s0lL) owner
 - WSEICraft_6.0 2nd place
-- Creator of FindAround
+- Creator of [FindAround](https://github.com/3-7-Development/fineanswer.git)
 - INF.02
 - Loves coding, guinea pigs, mobile apps and .NET MAUI
 
