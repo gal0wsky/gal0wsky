@@ -18,4 +18,4 @@ I'm young software developer based in Cracow, Poland.
 - Python
 - Docker
 
-In Mobile we trust 📱
+### In Mobile we trust 📱
