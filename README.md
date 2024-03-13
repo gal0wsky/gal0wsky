@@ -12,14 +12,15 @@ I'm young software developer based in Cracow, Poland.
 - 2nd place at WSEICraft 6.0 ➔ check the [1st game](https://jajszu.itch.io/seasonalassault) and the [2nd game](https://jajszu.itch.io/survivethejourney)
 - 3rd place at WSEICraft 7.0 ➔ check the [game](https://jajszu.itch.io/lost-memoros)
 - Member of [3.7 Development](https://github.com/3-7-Development)
+- Computer Science student at [UKEN](https://www.uken.krakow.pl/)
 - INF.02 + INF.03
-- Loves coding, guinea pigs, mobile apps, .NET MAUI and Flutter
+- Loves coding, guinea pigs, mobile apps and Flutter
 ## Main technologies I use:
-- Xamarin
-- .NET MAUI
 - Flutter
 - ASP .NET Core
-- Python
+- .NET MAUI
+- Xamarin
 - Docker
+- Python
 
 ### In Mobile we trust 📱
